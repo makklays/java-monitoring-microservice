@@ -11,6 +11,8 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Controller for analytics endpoints.
  *
+ * TODO: Implement methods in class AnalyticsController.
+ *
  * @author Alexander Kuziv <makklays@gmail.com>
  * @company TechMatrix18
  * @version 0.0.1
